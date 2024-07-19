@@ -1,6 +1,6 @@
 # Estrutura do Diretório de Implementação de Algoritmos
 
-Este repositório contém implementações de diversos algoritmos de busca, ordenação e funções recursivas em Python. Cada subdiretório inclui um arquivo `.md` que fornece uma explicação detalhada sobre o algoritmo correspondente, incluindo a estrutura do código e o passo a passo da implementação.
+Este repositório contém implementações de diversos algoritmos de busca, ordenação e funções recursivas em Python. Cada subdiretório inclui um arquivo `.md` que fornece uma explicação detalhada sobre o algoritmo correspondente, incluindo a estrutura do código.
 
 ## Estrutura do Diretório
 
@@ -69,7 +69,7 @@ Para executar qualquer um dos algoritmos, siga as instruções abaixo:
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/Yagowc1/seu-repositorio.git
+   git clone https://github.com/Yagowc1/Complexidade-computacional-python.git
    ```
 
 2. Navegue até o diretório do algoritmo desejado:
